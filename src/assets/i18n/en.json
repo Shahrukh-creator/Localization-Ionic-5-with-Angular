@@ -1,0 +1,7 @@
+{
+    "TITLE": "Hello sir",
+    "TITLE_2": "Hello {{value}}",
+    "description": "Im from England...",
+    "data": {
+    "name": "My name is {{name_value}}"}
+    }

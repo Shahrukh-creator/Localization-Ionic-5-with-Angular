@@ -1,0 +1,7 @@
+{
+  "name": "Ionic5_Translation",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
